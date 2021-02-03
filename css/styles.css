@@ -1,13 +1,22 @@
-h1 {  
-    font-family: 'Montserrat, sans-serif';  
-    font-size: 3rem;  
-    line-height: 1.5;  
+h1{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
     font-weight: 900;
+  }
+
+body{
+    font-family: "Montserrat";
 }
 
 #title{
     background-color: #ff4c68;
 }
+
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: 300;
+  }
 
 .container-fluid{
     padding: 3% 15%;
