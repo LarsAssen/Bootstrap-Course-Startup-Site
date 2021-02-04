@@ -52,17 +52,17 @@ body{
 }
 
 #features{
-  padding: 5% 5%;
+  padding: 7% 15%;
 }
 
 .feature{
   text-align: center;
-  padding: 5% 0;
+  padding: 5%;
 }
 
 .feature-icon{
-  color: #efB172;
-  text-align: center;
+  color: #ef8172;
+  margin-bottom: 1rem;
 }
 
 .feature-icon:hover{
