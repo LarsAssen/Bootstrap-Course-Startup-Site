@@ -50,3 +50,28 @@ body{
   width: 60%;
   transform: rotate(25deg);
 }
+
+#features{
+  padding: 5% 5%;
+}
+
+.feature{
+  text-align: center;
+  padding: 5% 0;
+}
+
+.feature-icon{
+  color: #efB172;
+  text-align: center;
+}
+
+.feature-icon:hover{
+  color: #ff4c68;
+}
+
+.feature-title{
+  font-weight: 900;
+}
+.feature-text{
+  color: gray;
+}
