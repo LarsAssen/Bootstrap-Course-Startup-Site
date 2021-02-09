@@ -49,10 +49,15 @@ body{
 .title-image{
   width: 60%;
   transform: rotate(25deg);
+  position: relative;
+  top: 150px;
 }
 
 #features{
   padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 2;
 }
 
 .feature{
