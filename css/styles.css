@@ -1,3 +1,14 @@
+@media (max-width: 1050px){
+  #title{
+    text-align: center;
+  }
+
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+}
+
 h1{
     font-family: "Montserrat";
     font-size: 3.5rem;
@@ -50,7 +61,7 @@ body{
   width: 60%;
   transform: rotate(25deg);
   position: relative;
-  top: 150px;
+  top: 250px;
 }
 
 #features{
