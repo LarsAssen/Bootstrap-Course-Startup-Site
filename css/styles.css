@@ -138,3 +138,21 @@ h2{
   font-size: 2.5rem;
   padding: 100px 30% 30px;
 }
+
+#footer{
+  text-align: center;
+  height: 200px;
+}
+
+.footer-content{
+  padding-top: 70px;
+}
+
+.footer-icon{
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+.copyright{
+  color: gray;
+}
